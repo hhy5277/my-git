@@ -9,8 +9,12 @@
 - [为什么开始使用 Git 版本管理，Git VS Svn 有哪些区别？](https://github.com/xirong/my-git/blob/master/why-git.md)
 - [开篇：一篇适合入门学习git的资料汇总](https://github.com/xirong/my-git/blob/master/ixirong.com.md) 本人的拙笔，欢迎吐槽！
 - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) 关于使用 Git 和 Github 的一些技巧汇总，中文版在此[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+- [Git-cheat-sheet](https://github.com/hhy5277/Git-Cheat-Sheet) Git Cheat Sheet中文版, translated by Gevin (flyhigher139) 
 - [Git for beginners: The definitive practical guide - from stackoverflow.com](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?rq=1)  It's so useful to a beginner ,just open the url , read and practice .
 - [Visual Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html) 通过 Git 的几个工作区 Stash、Workspace、Index、Local Repository、Upstream Repository 来汇总日常使用的 Git 命令，备忘推荐。
+- [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) Git的文章，这个系列是最通俗易懂的
+- [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 入门Git的简明指南，木有高深内容:)
+- [GitAwards](http://git-awards.com/) Git工具，可以查看Git排名
 
 # Git 客户端
 
